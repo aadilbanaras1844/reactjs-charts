@@ -1,0 +1,17 @@
+// Override default variables before the import
+// $body-bg: #000;
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+
+.Dashboard{
+    .header{
+        background-color: #dee0e2;
+        padding: 4vh 0vh;
+    }
+    .chart{
+        width: 400px;
+        height: 400px;
+        display: inline-block;
+    }
+}
