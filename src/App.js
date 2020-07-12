@@ -7,7 +7,6 @@ import LineCharts from "./components/line-charts";
 import TreeCharts from "./components/tree-charts";
 import ThreeDCharts from "./components/3d-charts";
 
-
 import {
   BrowserRouter as Router,
   Switch,
